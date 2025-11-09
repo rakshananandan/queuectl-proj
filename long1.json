@@ -1,0 +1,1 @@
+﻿{"command":"powershell -Command \"Start-Sleep -Seconds 8\"","id":"long1","max_retries":3}
